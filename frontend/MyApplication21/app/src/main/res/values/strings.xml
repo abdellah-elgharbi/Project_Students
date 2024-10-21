@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="villes">
+
+            <item>Casablanca</item>
+            <item>Rabat</item>
+            <item>Marrakech</item>
+            <item>Fès</item>
+            <item>Tanger</item>
+            <item>Agadir</item>
+            <item>Oujda</item>
+            <item>Meknès</item>
+            <item>Salé</item>
+            <item>Temara</item>
+            <item>Kénitra</item>
+            <item>Tétouan</item>
+            <item>El Jadida</item>
+            <item>Nador</item>
+            <item>Safi</item>
+            <item>Beni Mellal</item>
+            <item>Mohammédia</item>
+            <item>Khouribga</item>
+            <item>Laâyoune</item>
+            <item>Errachidia</item>
+            <item>Khemisset</item>
+            <item>Larache</item>
+            <item>Al Hoceima</item>
+            <item>Ksar El Kebir</item>
+            <item>Berrechid</item>
+            <item>Ouazzane</item>
+            <item>Tan-Tan</item>
+            <item>Tiznit</item>
+            <item>Guelmim</item>
+            <item>Taourirt</item>
+            <item>Essaouira</item>
+            <item>Settat</item>
+            <item>Taroudant</item>
+            <item>Azrou</item>
+            <item>Ifrane</item>
+            <item>Zagora</item>
+            <item>Chefchaouen</item>
+            <item>Sidi Kacem</item>
+            <item>Tiflet</item>
+            <item>Midelt</item>
+            <item>Sefrou</item>
+            <item>Ouarzazate</item>
+            <item>Youssoufia</item>
+            <item>Martil</item>
+            <item>Imzouren</item>
+            <item>Fquih Ben Salah</item>
+            <item>Sidi Slimane</item>
+            <item>Jerada</item>
+            <item>Chichaoua</item>
+
+
+    </string-array>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".info_">
+
+  <ImageButton
+      android:id="@+id/imageButton5"
+      android:layout_width="41dp"
+      android:layout_height="31dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="26dp"
+      android:layout_marginBottom="76dp"
+      app:srcCompat="@android:drawable/btn_dialog" />
+
+  <ImageButton
+      android:id="@+id/imageButton4"
+      android:layout_width="41dp"
+      android:layout_height="31dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="30dp"
+      android:layout_marginBottom="161dp"
+      app:srcCompat="@android:drawable/btn_dialog" />
+
+  <ImageButton
+      android:id="@+id/imageButton3"
+      android:layout_width="41dp"
+      android:layout_height="31dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="29dp"
+      android:layout_marginBottom="240dp"
+      app:srcCompat="@android:drawable/btn_dialog" />
+
+  <ImageButton
+      android:id="@+id/imageButton2"
+      android:layout_width="41dp"
+      android:layout_height="31dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="28dp"
+      android:layout_marginBottom="317dp"
+      app:srcCompat="@android:drawable/btn_dialog" />
+
+  <ImageView
+      android:id="@+id/profile"
+      android:layout_width="216dp"
+      android:layout_height="190dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="114dp"
+      android:layout_marginBottom="501dp"
+      tools:srcCompat="@tools:sample/avatars" />
+
+  <TextView
+      android:id="@+id/nom"
+      android:layout_width="290dp"
+      android:layout_height="40dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="108dp"
+      android:layout_marginBottom="389dp"
+      android:gravity="center"
+      android:text="TextView" />
+
+  <TextView
+      android:id="@+id/prenom"
+      android:layout_width="284dp"
+      android:layout_height="43dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="120dp"
+      android:layout_marginBottom="314dp"
+      android:text="TextView"
+      android:gravity="center"/>
+
+  <TextView
+      android:id="@+id/ville"
+      android:layout_width="272dp"
+      android:layout_height="44dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="120dp"
+      android:layout_marginBottom="235dp"
+      android:text="TextView"
+      android:gravity="center"/>
+
+  <TextView
+      android:id="@+id/sexe"
+      android:layout_width="274dp"
+      android:layout_height="50dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="120dp"
+      android:layout_marginBottom="151dp"
+      android:text="TextView"
+      android:gravity="center"/>
+
+  <TextView
+      android:id="@+id/CNE"
+      android:layout_width="274dp"
+      android:layout_height="50dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="120dp"
+      android:layout_marginBottom="68dp"
+      android:gravity="center"
+      android:text="TextView" />
+
+  <ImageButton
+      android:id="@+id/imageButton1"
+      android:layout_width="41dp"
+      android:layout_height="31dp"
+      android:layout_alignParentEnd="true"
+      android:layout_alignParentBottom="true"
+      android:layout_marginEnd="28dp"
+      android:layout_marginBottom="396dp"
+      app:srcCompat="@android:drawable/btn_dialog" />
+
+
+</RelativeLayout>

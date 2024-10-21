@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/nom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="156dp"
+        android:layout_marginBottom="679dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name" />
+
+    <EditText
+        android:id="@+id/prenom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="156dp"
+        android:layout_marginBottom="604dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name" />
+
+    <EditText
+        android:id="@+id/ville"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="156dp"
+        android:layout_marginBottom="531dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name" />
+
+    <EditText
+        android:id="@+id/sexe"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="155dp"
+        android:layout_marginBottom="461dp"
+        android:ems="10"
+        android:inputType="text"
+        android:text="Name" />
+</RelativeLayout>
